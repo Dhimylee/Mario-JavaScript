@@ -18,4 +18,6 @@
 
 ### 📍 Status
 
-🚧  Em andamento  🚧
+<h4 align="center"> 
+	🚧  Finalizado  🚧
+</h4>
